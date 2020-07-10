@@ -9,16 +9,16 @@ no-cache: true
 ---
 <div class="row NL_main_banner">
     <div class="col-md-8 col-md-offset-2 NL_about">
-        <h1>Monetize your digital products and services</h1>
-        <span>Labs64 NetLicensing is a first-class solution in the <i>Licensing-as-a-Service (LaaS)</i> sector. Based on open standards, it provides a cost-effective, integrated and scalable platform for software vendors and developers who want to concentrate on their product’s core functionality instead of spending resources on developing an own license management software.</span>
+        <h1>Монетизируйте ваши цифровые продукты и услуги.</h1>
+        <span>Labs64 NetLicensing - первоклассное решение в области <i>LaaS - лицензирование как услуга</i>. Построенная на открытых стандартах, экономически эффективная, интегрируемая и масштабируемая платформа для разработчиков и поставщиков программного обеспечения, помогающая сосредоточиться на основной функциональности своего продукта и не тратить ресурсы на разработку модуля для управления лицензиями.</span>
         <div class="row">
             <div id="live-demo" class="col-md-4 col-md-offset-2">
                 <a href="/demo-optin/"
-                   class="NL_button button_main NL_light_btn" role="button"><i class="fa fa-eye"></i>Live Demo</a>
+                   class="NL_button button_main NL_light_btn" role="button"><i class="fa fa-eye"></i>Демонстрация вживую</a>
             </div>
             <div id="getting-started" class="col-md-4">
                 <a href="/getting-started/"
-                   class="NL_button button_main NL_light_btn" role="button"><i class="fa fa-rocket"></i>Getting Started</a>
+                   class="NL_button button_main NL_light_btn" role="button"><i class="fa fa-rocket"></i>Начало работы</a>
             </div>
         </div>
     </div>
@@ -31,17 +31,17 @@ no-cache: true
                 <img src="{{ '/img/netlicensing-landing-laas.png' | prepend: site.baseurl | prepend: site.url }}" alt="LaaS - Licensing-as-a-Service" title="LaaS - Licensing-as-a-Service">
             </figure>
             <article id="simplify-license-activation" class="cbp-so-side cbp-so-side-right">
-                <h2>Simplify license activation</h2>
+                <h2>Простой подход к активации лицензий.</h2>
 
-                <span>NetLicensing allows you to deliver and activate product licenses to your customers 24x7x365, without customer support involvement. With NetLicensing, your licensing back-office can be completely automated.<br/>In addition, you can manage licenses in the field with NetLicensing Management Console.</span>
+                <span>NetLicensing позволяет активировать лицензии на продукты и предоставлять их клиентам 24x7x365, без вовлечения службы поддержки. С помощью NetLicensing ваш отдел выдачи лицензий можно полностью автоматизировать.<br/>Кроме того, управлять лицензиями можно удаленно с помощью Консоли управления.</span>
             </article>
         </section>
 
         <section class="cbp-so-section">
             <article id="maximize-revenue" class="cbp-so-side cbp-so-side-left">
-                <h2>Maximize revenue with flexible licensing models</h2>
+                <h2>Максимизация прибыли с помощью гибких моделей лицензирования.</h2>
 
-                <span>With NetLicensing you have a choice of ready-to-use licensing models or customized licensing models may be created to suit your unique business needs and goals. NetLicensing has an open architecture that allows easy extension with new licensing models.</span>
+                <span>NetLicensing предлагает набор типовых готовых к использованию моделей лицензирования, а также возможность создавать индивидуальные модели под ваши нестандартные бизнес-потребности и цели. Открытая архитектура NetLicensing позволяет оперативно добавлять в функционал платформы новые модели лицензирования.</span>
             </article>
             <figure class="cbp-so-side cbp-so-side-right">
                 <img src="{{ '/img/netlicensing-landing-licensing-models.png' | prepend: site.baseurl | prepend: site.url }}" alt="NetLicensing Licensing Models" title="NetLicensing Licensing Models">
@@ -53,27 +53,27 @@ no-cache: true
                 <img src="{{ '/img/netlicensing-landing-shop.png' | prepend: site.baseurl | prepend: site.url }}" alt="NetLicensing Shop" title="NetLicensing Shop">
             </figure>
             <article id="reduce-ecommerce-complexity" class="cbp-so-side cbp-so-side-right">
-                <h2>Reduce your e-Commerce complexity</h2>
+                <h2>Упрощение подхода к электронной коммерции.</h2>
 
-                <span>NetLicensing integrated shop provides a seamless online purchase experience, aligned with the deployed licensing models.<br/>Our PayPal and Stripe integrations allow your global customers to pay in their preferred currency.
+                <span>У NetLicensing есть встроенный интернет-магазин, в котором ваши клиенты смогут легко оформить покупку с учетом применяемых моделей лицензирования.<br/>Интеграция популярных международных платежных систем позволяет принимать оплату от клиентов по всему миру в удобной для них валюте.
                 </span>
             </article>
         </section>
 
         <section class="cbp-so-section">
             <article id="automate-processes" class="cbp-so-side cbp-so-side-left">
-                <h2>Automate your processes</h2>
+                <h2>Автоматизируйте рабочие процессы</h2>
 
-                <span>NetLicensing RESTful API makes setup and integration fast, safe and very simple.<br/>
-                    So you can get up and running in a few hours.<br/>
-                    NetLicensing API gives you a full control over all existing licensing entities, so NetLicensing can be easily integrated into your business processes, ERP, CRM, e-Commerce or your IoT device.
+                <span>NetLicensing RESTful API делает настройку и интеграцию быстрой, безопасной и очень простой.<br/>
+                    В нашем случае освоение и запуск в работу - дело нескольких часов.<br/>
+                    NetLicensing API дает полный контроль над всеми имеющимися объектами лицензирования, поэтому NetLicensing легко интегрируется в ваши бизнес-процессы, ERP, CRM, электронную коммерцию или в устройство IoT (Интернет вещей).
                 </span>
 
                 <div class="col-md-8 col-md-offset-4 NL_dialog">
                     <div class="col-md-3"><img class="NL_dialog_img" alt="{{ site.title }}" title="{{ site.title }}"
                                                src="{{ '/img/labs64-avatar-30x30.png' | prepend: site.baseurl | prepend: site.url }}"/>
                     </div>
-                    <div class="col-md-9"><i>As easy as one, two, three!</i></div>
+                    <div class="col-md-9"><i>Просто как раз, два, три!</i></div>
                 </div>
 
             </article>
@@ -88,14 +88,14 @@ no-cache: true
 <div class="row">
     <div class="col-md-12 NL_container">
         <div class="col-md-6 col-md-offset-3 NL_container_text">
-            <h2>Signup for a NetLicensing account</h2>
-            <span>Join the hundreds of happy NetLicensing customers.</span>
+            <h2>Создать учетную запись NetLicensing</h2>
+            <span>Присоединяйтесь к сотням клиентов NetLicensing.</span>
 
             <form action="https://ui.netlicensing.io/#/register" method="GET"
                   name="register" id="register"
                   novalidate>
                 <button type="submit" class="NL_button button_main NL_dark_btn NL_wide_btn">
-                    <i class="fa fa-user-plus"></i>Start Your Free License Management
+                    <i class="fa fa-user-plus"></i>Начните управлять лицензиями бесплатно.
                 </button>
             </form>
         </div>
@@ -104,8 +104,8 @@ no-cache: true
 -->
 
 <div class="row NL_block">
-    <h2 class="col-md-12">NetLicensing Use Cases</h2>
-    <p class="col-md-8 col-md-offset-2" style="text-align:center;">Get insight into how various organizations are using NetLicensing services to tackle a growing number of use cases.</p>
+    <h2 class="col-md-12">Примеры внедрения NetLicensing.</h2>
+    <p class="col-md-8 col-md-offset-2" style="text-align:center;">Посмотрите как различные организации применяют NetLicensing - оцените многообразие вариантов лицензирования.</p>
 </div>
 
 <!-- Use Cases -->
@@ -125,7 +125,7 @@ no-cache: true
 </div>
 
 <div class="row NL_block">
-    <h2 class="col-md-12">Companies trust NetLicensing to provide a secure License Management Solution</h2>
+    <h2 class="col-md-12">Компании доверяют возможностям NetLicensing по безопасному управлению лицензиями.</h2>
 
     <div class="NL_testimonial">
         {% for testimonial in site.data.testimonials %}
